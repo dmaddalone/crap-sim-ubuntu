@@ -6,7 +6,7 @@ This repository contains **Dockerfile** of a [Craps Simulator](http://github.com
 
 ### Base Docker Image
 
-* [dockerfile/ubuntu(http://dockerfile.github.io/#/ubuntu)
+* [dockerfile/ubuntu](http://dockerfile.github.io/#/ubuntu)
 
 
 ### Installation
