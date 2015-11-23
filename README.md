@@ -15,7 +15,7 @@ This repository contains **Dockerfile** of a [Craps Simulator](http://github.com
 
 2. Download [automated build](https://hub.docker.com/r/dmaddalone/crap-sim-ubuntu) from public [Docker Hub Registry](https://hub.docker.com/): `docker pull dmaddalone/crap-sim-ubuntu`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="dmaddalone/crap-sim-ubuntu" github.com/dmaddalone/crap-sim-ubuntu`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="dmaddalone/crap-sim-ubuntu" github.com/dmaddalone/crap-sim-ubuntu)
 
 
 ### Usage
